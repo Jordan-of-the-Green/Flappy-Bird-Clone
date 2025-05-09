@@ -9,7 +9,7 @@ The project features:
 - Game over detection and restart functionality
 
 ## 🎮 Demo
-[To be added]
+https://github.com/user-attachments/assets/3f567763-e0b7-49af-b827-fa543794dc4a
 
 ## 🚀 How to Play
 - Press `Space` to flap
